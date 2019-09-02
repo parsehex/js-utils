@@ -13,6 +13,10 @@
     "type": "git",
     "url": "https://github.com/parsehex/js-utils.git"
   },
+  "bugs": {
+    "url": "https://github.com/parsehex/node-server/issues"
+  },
+  "homepage": "https://github.com/parsehex/node-server#readme",
   "devDependencies": {
     "typescript": "^3.6.2"
   }
