@@ -1,6 +1,6 @@
 {
-  "name": "@private-registry/utils",
   "version": "0.2.0",
+  "name": "utils",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -9,14 +9,17 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@parsehex"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/parsehex/js-utils.git"
+    "url": "https://github.com/parsehex/utils.git"
   },
   "bugs": {
-    "url": "https://github.com/parsehex/node-server/issues"
+    "url": "https://github.com/parsehex/utils/issues"
   },
-  "homepage": "https://github.com/parsehex/node-server#readme",
+  "homepage": "https://github.com/parsehex/utils#readme",
   "devDependencies": {
     "typescript": "^3.6.2"
   }
