@@ -4,6 +4,10 @@ Growing collection of utility functions.
 
 ## Functions
 
+### `utils`
+
+- `clone(data)`: Get a copy of any data (uses JSON for cloning).
+
 ### `utils.array`
 
 - `findByKey(arr, key, value)`: Finds an object using one of its keys.
