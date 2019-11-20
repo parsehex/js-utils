@@ -1,6 +1,6 @@
 {
-  "name": "utils",
-  "version": "0.3.1",
+  "name": "@parsehex/utils",
+  "version": "0.3.2",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -9,9 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@parsehex"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/parsehex/utils.git"
